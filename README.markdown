@@ -2,6 +2,8 @@
 
 This repository is a originally forked from [fsouza/go-dockerclient@3134ad4ea8f8a04974cde3ef3958e265c605b0c1](https://github.com/fsouza/go-dockerclient/tree/3134ad4ea8f8a04974cde3ef3958e265c605b0c1).
 
+---
+
 # go-dockerclient
 
 [![Travis](https://img.shields.io/travis/fsouza/go-dockerclient/master.svg?style=flat-square)](https://travis-ci.org/fsouza/go-dockerclient)
