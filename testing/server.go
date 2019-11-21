@@ -23,7 +23,7 @@ import (
 	"time"
 
 	"github.com/docker/docker/pkg/stdcopy"
-	"github.com/fsouza/go-dockerclient"
+	"github.com/ykyuen/go-dockerclient"
 	"github.com/gorilla/mux"
 )
 
